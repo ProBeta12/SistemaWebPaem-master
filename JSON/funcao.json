@@ -1,0 +1,13 @@
+{   
+  "type":"table",
+  "database":"mydbpaem",
+  "name":"cursos",
+  
+  "data":
+    [
+      {
+          "id_curso": "94","nome": "SISTEMAS DE INFORMAÇÃO","data_fundacao":"01-01-2010", "unidade": "CORI","cidade": "Oriximiná","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"5"
+      }
+    ]
+}

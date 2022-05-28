@@ -1,0 +1,397 @@
+{   
+  "type":"table",
+  "database":"mydbpaem",
+  "name":"cursos",
+  
+  "data":
+    [
+      {
+          "id_curso": "1","nome": "ADMINISTRAÇÃO","data_fundacao":"01-01-2010", "unidade": "CALE","cidade": "Alenquer","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+          "ativo": "1", "campus_instituto_id_campus_instituto":"1"
+      },
+    
+      {
+          "id_curso": "2","nome": "AGRONOMIA","data_fundacao":"01-01-2010", "unidade": "CJUR","cidade": "Juruti","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+          "ativo": "1", "campus_instituto_id_campus_instituto":"3"
+      },
+      {
+          "id_curso": "3","nome": "AGRONOMIA","data_fundacao":"01-01-2010", "unidade": "IBEF","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"10"
+      },
+      {
+          "id_curso": "4","nome": "AGRONOMIA - FORMAPARÁ","data_fundacao":"01-01-2010", "unidade": "CGIFP","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "FORMAPARA",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"8"
+      },
+      {
+          "id_curso": "5","nome": "ANTROPOLOGIA","data_fundacao":"01-01-2010", "unidade": "ICS","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"12"
+      },
+
+      {
+          "id_curso": "6","nome": "ARQUEOLOGIA","data_fundacao":"01-01-2010", "unidade": "ICS","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"12"
+      },
+    
+      {
+          "id_curso": "7","nome": "BIOTECNOLOGIA","data_fundacao":"01-01-2010", "unidade": "IBEF","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"10"
+      },
+      {
+          "id_curso": "8","nome": "CIÊNCIA DA COMPUTAÇÃO","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+    
+      {
+          "id_curso": "9","nome": "CIÊNCIAS ATMOSFÉRICAS","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "10","nome": "CIÊNCIAS BIOLÓGICAS","data_fundacao":"01-01-2010","unidade": "CORI","cidade": "Oriximiná","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1","campus_instituto_id_campus_instituto":"5"
+      },
+      {
+          "id_curso": "11","nome": "CIÊNCIAS BIOLÓGICAS","data_fundacao":"01-01-2010", "unidade": "ICTA","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"13"
+      },
+      {
+          "id_curso": "12","nome": "CIÊNCIAS BIOLÓGICAS","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "13","nome": "CIÊNCIAS ECONÔMICAS","data_fundacao":"01-01-2010", "unidade": "ICS","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"12"
+      },
+      {
+          "id_curso": "14","nome": "DIREITO","data_fundacao":"01-01-2010", "unidade": "ICS","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"12"
+      },
+      {
+          "id_curso": "15","nome": "ENGENHARIA CIVIL","data_fundacao":"01-01-2010", "unidade": "CITB","cidade": "Itaituba","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"2"
+      },
+      {
+          "id_curso": "16","nome": "ENGENHARIA DE AQUICULTURA","data_fundacao":"01-01-2010", "unidade": "CMAL","cidade": "Monte Alegre","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"4"
+      },
+      {
+          "id_curso": "17","nome": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "18","nome": "ENGENHARIA DE MINAS","data_fundacao":"01-01-2010", "unidade": "CJUR","cidade": "Juruti","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1","campus_instituto_id_campus_instituto":"3"
+      },
+      {
+          "id_curso": "19","nome": "ENGENHARIA DE PESCA","data_fundacao":"01-01-2010", "unidade": "ICTA","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"13"
+      },
+      {
+          "id_curso": "20","nome": "ENGENHARIA FÍSICA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "21","nome": "ENGENHARIA FLORESTAL","data_fundacao":"01-01-2010", "unidade": "IBEF","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"10"
+      },
+      {
+          "id_curso": "22","nome": "ENGENHARIA MECÂNICA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "23","nome": "ENGENHARIA SANITÁRIA E AMBIENTAL","data_fundacao":"01-01-2010", "unidade": "ICTA","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"13"
+      },
+      {
+          "id_curso": "24","nome": "ENGENHARIA SANITÁRIA E AMBIENTAL - FORMAPARÁ","data_fundacao":"01-01-2010", "unidade": "CGIFP","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "FORMAPARA",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"8"
+      },
+      {
+          "id_curso": "25","nome": "FARMÁCIA","data_fundacao":"01-01-2010", "unidade": "ISCO","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"15"
+      },
+      {
+          "id_curso": "26","nome": "FÍSICA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "INATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "27","nome": "FORMAÇÃO BÁSICA INDÍGENA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "","situacao": "","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "28","nome": "GEOFÍSICA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "29","nome": "LICENCIATURA EM GEOGRAFIA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "30","nome": "BACHARELADO EM GEOGRAFIA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "INATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "31","nome": "GEOLOGIA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "32","nome": "GESTÃO AMBIENTAL","data_fundacao":"01-01-2010", "unidade": "ICTA","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"13"
+      },
+      {
+          "id_curso": "33","nome": "GESTÃO PÚBLICA E DESENVOLVIMENTO REGIONAL","data_fundacao":"01-01-2010", "unidade": "ICS","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"12"
+      },
+      {
+          "id_curso": "34","nome": "HISTÓRIA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "35","nome": "INFORMÁTICA EDUCACIONAL","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "36","nome": "INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "37","nome": "INTERDISCIPLINAR EM CIÊNCIAS AGRÁRIAS","data_fundacao":"01-01-2010", "unidade": "IBEF","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"10"
+      },
+      {
+          "id_curso": "38","nome": "INTERDISCIPLINAR EM CIÊNCIAS AMBIENTAIS","data_fundacao":"01-01-2010", "unidade": "CFI","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"7"
+      },
+      {
+          "id_curso": "39","nome": "INTERDISCIPLINAR EM CIÊNCIAS BIOLÓGICAS E CONSERVAÇÃO","data_fundacao":"01-01-2010", "unidade": "CORI","cidade": "Oriximiná","grau_academico": "BACHARELADO","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "0", "campus_instituto_id_campus_instituto":"5"
+      },
+      {
+          "id_curso": "40","nome": "INTERDISCIPLINAR EM CIÊNCIAS DA TERRA","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "41","nome": "INTERDISCIPLINAR EM CIÊNCIAS E TECNOLOGIA DAS ÁGUAS","data_fundacao":"01-01-2010", "unidade": "ICTA","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"13"
+      },
+      {
+          "id_curso": "42","nome": "INTERDISCIPLINAR EM SAÚDE","data_fundacao":"01-01-2010", "unidade": "ISCO","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"15"
+      },
+      {
+          "id_curso": "43","nome": "LETRAS - LÍNGUA PORTUGUESA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "INATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "44","nome": "LETRAS - PORTUGUÊS E INGLÊS","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "45","nome": "LETRAS - PORTUGUÊS E INGLÊS (JURUTI)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Juruti","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1","campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "46","nome": "LETRAS - PORTUGUÊS E INGLÊS (ORIXIMINÁ)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Oriximiná","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1","campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "47","nome": "LETRAS - PORTUGUÊS E INGLÊS (ITAITUBA)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Itaituba","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1","campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "48","nome": "LETRAS - PORTUGUÊS E INGLÊS (ALEQUER)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Alenquer","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "49","nome": "LETRAS - PORTUGUÊS E INGLÊS (MONTE ALEGRE)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Monte Alegre","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "50","nome": "LETRAS - PORTUGUÊS E INGLÊS (SANTARÉM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "51","nome": "LETRAS - PORTUGUÊS E INGLÊS (ALMEIRIM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Almeirim","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "52","nome": "LETRAS - PORTUGUÊS E INGLÊS (ÓBIDOS)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "53","nome": "LETRAS - PORTUGUÊS E INGLÊS (TRONCO COMUM)","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "54","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (ITAITUBA)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Itaituba","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "55","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (MONTE ALEGRE)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Monte Alegre","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "56","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (SANTARÉM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "57","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (JURUTI)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Juruti","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "58","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (ÓBIDOS)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "59","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (ALENQUER)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Alenquer","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "60","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (ORIXIMINÁ)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Oriximiná","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "61","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA (ALMEIRIM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Almeirim","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "62","nome": "LICENCIATURA INTEGRADA EM BIOLOGIA E QUÍMICA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "63","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (JURUTI)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Juruti","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "64","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (ITAITUBA)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Itaituba","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "65","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "66","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (SANTARÉM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "67","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (ALMEIRIM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Almeirim","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "68", "nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (MONTE ALEGRE)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Monte Alegre","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "69", "nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (ALENQUER)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Alenquer","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "70", "nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (ORIXIMINÁ)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Oriximiná","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "71","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (ÓBIDOS)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "72","nome": "LICENCIATURA INTEGRADA EM HISTÓRIA E GEOGRAFIA (TRONCO COMUM)","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "73","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (MONTE ALEGRE)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Monte Alegre","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "74","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (ALENQUER)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Alenquer","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "75","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (JURUTI)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Juruti","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "76","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (ORIXIMINÁ)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Oriximiná","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "77","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (ITAITUBA)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Itaituba","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "78","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (ALMEIRIM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Almeirim","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "79","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "80","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (SANTARÉM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "81","nome": "LICENCIATURA INTEGRADA EM MATEMÁTICA E FÍSICA (ÓBIDOS)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "82","nome": "PEDAGOGIA (ALMEIRIM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Almeirim","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "83","nome": "PEDAGOGIA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1","campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "84","nome": "PEDAGOGIA (MONTE ALEGRE)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Monte Alegre","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "85","nome": "PEDAGOGIA (ITAITUBA)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Itaituba","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "86","nome": "PEDAGOGIA (ÓBIDOS)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "87","nome": "PEDAGOGIA (JURUTI)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Juruti","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "88","nome": "PEDAGOGIA","data_fundacao":"01-01-2010", "unidade": "COBI","cidade": "Óbidos","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"6"
+      },
+      {
+          "id_curso": "89","nome": "PEDAGOGIA (ORIXIMINÁ)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Oriximiná","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "90","nome": "PEDAGOGIA (SANTARÉM)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "91","nome": "PEDAGOGIA (ALENQUER)","data_fundacao":"01-01-2010", "unidade": "PARFOR","cidade": "Alenquer","grau_academico": "LICENCIATURA","situacao": "SUSPENSO","modalidade": "Presencial","convenio": "PARFOR",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"9"
+      },
+      {
+          "id_curso": "92","nome": "QUÍMICA","data_fundacao":"01-01-2010", "unidade": "ICED","cidade": "Santarém","grau_academico": "LICENCIATURA","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"11"
+      },
+      {
+          "id_curso": "93","nome": "SAÚDE COLETIVA","data_fundacao":"01-01-2010", "unidade": "ISCO","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"15"
+      },
+      {
+          "id_curso": "94","nome": "SISTEMAS DE INFORMAÇÃO","data_fundacao":"01-01-2010", "unidade": "CORI","cidade": "Oriximiná","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"5"
+      },
+      {
+          "id_curso": "95","nome": "SISTEMAS DE INFORMAÇÃO","data_fundacao":"01-01-2010", "unidade": "IEG","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"14"
+      },
+      {
+          "id_curso": "96","nome": "ZOOTECNIA","data_fundacao":"01-01-2010", "unidade": "IBEF","cidade": "Santarém","grau_academico": "BACHARELADO","situacao": "ATIVO","modalidade": "Presencial","convenio": "",
+        "ativo": "1", "campus_instituto_id_campus_instituto":"10"
+      }
+    ]
+}
