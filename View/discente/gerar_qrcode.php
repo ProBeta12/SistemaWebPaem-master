@@ -7,7 +7,6 @@ if(!isset($_SESSION['token']))
     exit();
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -19,8 +18,9 @@ if(!isset($_SESSION['token']))
     <link rel="stylesheet" href="../../bootstrap/css/bootstrap.css" />
 
     <link rel="stylesheet" href="../../Assets/css/areaprivtec.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
     <script src="https://kit.fontawesome.com/b7e150eff5.js" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
     <link href="../../bootstrap/css/bootstrap-datetimepicker.css" rel="stylesheet" media="screen">
     
 

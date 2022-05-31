@@ -5,27 +5,20 @@ session_start();
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Minha Vida Academica</title>
     <link rel="shortcut icon" href="../../Assets/img/Minhavidaacademica.ico">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-    <link rel="stylesheet" href="../../Assets/css/style.css" />
-    <link rel="stylesheet" href="../../Assets/css/icon.css">
     <script src="https://kit.fontawesome.com/b7e150eff5.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="../../Assets/css/style.css">
+    <link rel="stylesheet" href="../../Assets/css/icon.css">
     
 </head>
 <body>
-    <!-- Hero section -->
-    <section id="hero" class="text-white tm-font-big">
-        <!-- Navigation -->
-        <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
-            <div class="container">  
-                <div class="tm-next">
-                    <a href="../../index.php" class="navbar-brand"><img src="../../Assets/img/ufopa-icon-semfundo.png" class="img-icon"/>UFOPA-MINHA VIDA ACADEMICA</a>
-                </div>     
-            </div>
-        </nav>
-    </section>
+<?php
+  include_once('../../funcionalidades/cabecalho_1.php')
+?>
 
     <section class="tm-section-pad-top">
         <div class="px-5 px-md-5 px-lg-5  py-5 mx-auto">

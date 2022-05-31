@@ -7,7 +7,6 @@ if(!isset($_SESSION['token']))
     exit();
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -20,7 +19,8 @@ if(!isset($_SESSION['token']))
 
     <link rel="stylesheet" href="../../Assets/css/areaprivtec.css" />
     <script src="https://kit.fontawesome.com/b7e150eff5.js" crossorigin="anonymous"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/1.8.349/pdf.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/1.8.349/pdf.min.js"></script>
     <link href="../../bootstrap/css/bootstrap-datetimepicker.css" rel="stylesheet" media="screen">
     
 
