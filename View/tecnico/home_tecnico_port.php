@@ -79,9 +79,9 @@ if(!isset($_SESSION['token']))
                                     </div>
                                     <select required name="turno" class="custom-select" id="turno">
                                         <option disabled selected></option>
-                                        <option value='1'>manha</option>
-                                        <option value="2">tarde</option>
-                                        <option value="3">noite</option>
+                                        <option value='1'>Diurno</option>
+                                        <option value="2">Noturno</option>
+                                        
                                     </select>
                                 </div>
 
@@ -241,8 +241,6 @@ if(!isset($_SESSION['token']))
             </div>
         </main>
     </div>
-    <script src="../../Assets/js/jquery-3.5.1.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 
     <!-- Mostrando ou ocultando textarea -->
     
@@ -320,6 +318,7 @@ if(!isset($_SESSION['token']))
 <script src="../../Assets/js/buscar_nome_matri.js"></script>
 <script src="../../bootstrap/js/bootstrap.js"></script>
 <script src="../../Assets/js/areaprivtec.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 <script type="text/javascript" src="../../bootstrap/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
 <script type="text/javascript" src="../../bootstrap/js/locales/bootstrap-datetimepicker.pt-BR.js" charset="UTF-8"></script>
 
