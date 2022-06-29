@@ -71,7 +71,10 @@ session_start();
                                 <button type="submit" class="btn btn-blue text-center">Login</button> 
                             </div>
                             <div class="row mb-5 px-5"> 
-                                <small class="font-weight-bold">Ainda não possui uma conta? <a href="../quem_cadastrar.php" class="text-danger ">Registre-se</a></small> 
+                                <small class="font-weight-bold">Ainda não possui uma conta? <a href="../quem_cadastrar.php" class="text-danger ">Registre-se</a></small>  
+                            </div>
+                            <div class="row mb-5 px-5"> 
+                            <small class="font-weight-bold">Esqueceu sua senha? <a href="../recuperação.php" class="text-danger ">Recuperar</a></small>
                             </div>
                         </div>
                     </form>
